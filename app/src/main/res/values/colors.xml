@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9a275a</color>
+    <color name="colorPrimaryDark">#210813</color>
+    <color name="colorAccent">#e2bec8</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#9a2345</color>
+
+    <!-- Background color for the Playlist category -->
+    <color name="category_playlist">#9ac4f8</color>
+
+    <!-- Background color for the Discover category -->
+    <color name="category_discover">#99e</color>
+
+    <!-- Background color for the Breathing category -->
+    <color name="category_breathing">#cb958e</color>
+
+    <!-- Background color for the Mindfulness category -->
+    <color name="category_mindfulness">#e36588</color>
+</resources>

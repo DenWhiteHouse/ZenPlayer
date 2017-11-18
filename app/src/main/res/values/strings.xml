@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ZenPlayer</string>
+
+    <!-- Main App Title -->
+    <string name="main_title">Listen To Your Power</string>
+
+    <!-- Category name for Playlist [CHAR LIMIT=20] -->
+    <string name="category_playlist">Playlist</string>
+
+    <!-- Category name for the vocabulary words for Discover [CHAR LIMIT=20] -->
+    <string name="category_discover">Discover</string>
+
+    <!-- Category name for the vocabulary words for Breathing [CHAR LIMIT=20] -->
+    <string name="category_breathing">Breathing</string>
+
+    <!-- Category name for the vocabulary words for family Mindfulness[CHAR LIMIT=20] -->
+    <string name="category_mindfulness">Mindfulness</string>
+
+    <!-- Activity Text Description Box for Playlist -->
+    <string name="playlist_Description">Realx Breath and Play your Personal Playlist</string>
+
+    <!-- Activity Text Description Box for Discover -->
+    <string name="discover_Description">Discover New Online Tracks </string>
+
+    <!-- Activity Text Description Box for Playlist -->
+    <string name="breathing_Description">Zen Music for Meditation</string>
+
+    <!-- Activity Text Description Box for Playlist -->
+    <string name="mindfulness_Description">Guided Track to reach your inner potential</string>
+
+    <!-- Activity Text Description Box for Playlist -->
+    <string name="missing_Description">CardView and MediaController here</string>
+
+</resources>

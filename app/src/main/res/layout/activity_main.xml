@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.zenplayer.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        style="@style/IconPicTitle"
+        android:src="@drawable/iconc" />
+    <TextView
+        android:id="@+id/MainTitle"
+        style="@style/MainTitleStyle"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/main_title" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/playlist"
+        style="@style/CategoryStyle"
+        android:background="@color/category_playlist"
+        android:text="@string/category_playlist" />
+
+    <TextView
+        android:id="@+id/discover"
+        style="@style/CategoryStyle"
+        android:background="@color/category_discover"
+        android:text="@string/category_discover" />
+
+    <TextView
+        android:id="@+id/breathing"
+        style="@style/CategoryStyle"
+        android:background="@color/category_breathing"
+        android:text="@string/category_breathing" />
+
+    <TextView
+        android:id="@+id/mindfulness"
+        style="@style/CategoryStyle"
+        android:background="@color/category_mindfulness"
+        android:text="@string/category_mindfulness" />
+
+</LinearLayout>
